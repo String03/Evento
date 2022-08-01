@@ -1,0 +1,11 @@
+C:\Users\fvg\source\Evento\Evento\bin\Debug\Evento.exe.config
+C:\Users\fvg\source\Evento\Evento\bin\Debug\Evento.exe
+C:\Users\fvg\source\Evento\Evento\bin\Debug\Evento.pdb
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.csproj.AssemblyReference.cache
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.csproj.SuggestedBindingRedirects.cache
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.Form1.resources
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.Properties.Resources.resources
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.csproj.GenerateResource.cache
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.csproj.CoreCompileInputs.cache
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.exe
+C:\Users\fvg\source\Evento\Evento\obj\Debug\Evento.pdb
